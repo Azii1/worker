@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: worker
-        image: 205930645143.dkr.ecr.eu-north-1.amazonaws.com/worker:latest
+        image: my-dotnet-worker:latest:latest
