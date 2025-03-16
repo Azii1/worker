@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: worker
-        image: my-dotnet-worker:latest:latest
+        image: azii1/worker:latest
